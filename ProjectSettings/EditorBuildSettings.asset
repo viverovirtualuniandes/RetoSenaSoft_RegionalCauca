@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Folclore.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Folclore_C.unity
+    guid: 53568e0cb8af5ca44a9980acac6cff35
+  - enabled: 1
+    path: Assets/Scenes/Folclore_N.unity
+    guid: 188402ea61449244189bd5ea6878e922
+  - enabled: 1
+    path: Assets/Scenes/Folclore_V.unity
+    guid: 742e0d1d38ccb924fa0d4bea48ae3ac1
+  - enabled: 1
+    path: Assets/Scenes/Folclore 3.unity
+    guid: 48b3a173d2946f949b7444c39fdbcb05
+  - enabled: 1
+    path: Assets/Scenes/Folclore 2.unity
+    guid: 95309175dd54b3141b8cd6ea99c68701
+  - enabled: 1
+    path: Assets/Scenes/Folclore1.unity
+    guid: 7f498d543e971b34fa82b73c29b14601
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 303925f1d89811f489305fb4f77a00b7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 82b93a71b5b1371469f13b4f07965410, type: 2}
